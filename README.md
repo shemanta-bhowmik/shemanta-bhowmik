@@ -1,26 +1,5 @@
-# Hello, and Welcome! 👋  
-### I’m a Full Stack WordPress Developer  
-
-What started as a passion has grown into a fulfilling career in WordPress development. As a professional freelancer, I’ve collaborated with agencies worldwide and taken on local projects to deliver exceptional web solutions. My expertise lies in creating dynamic, responsive, and customized WordPress websites using tools like Elementor Pro, Divi Builder, Thrive Architect, and Kadence Blocks.  
-
-### 💻 Services I Offer:  
-- Website Design & Development  
-- PSD to HTML/WordPress Conversion  
-- Responsive and Dynamic WordPress Websites  
-- WordPress Website Migration & Speed Optimization  
-- WordPress Theme & Plugin Development/Customization  
-
-### 🛠️ Technical Skills:  
-- **Front-End:** HTML, CSS, Bootstrap, jQuery  
-- **WordPress Development:** Theme & Plugin Development/Customization, Gutenberg, WP Bakery  
-- **Builders Expertise:** Elementor, Divi, Thrive Architect  
-
-### 🌟 A Few Fun Facts:  
-- 🔭 Currently working on Fiverr & Upwork.  
-- 🌱 Always learning, focusing now on PHP and JavaScript.  
-- ⚡ Bonus: I’m also a professional bathroom singer! 🎤  
-
-Let’s connect and bring your vision to life! 🚀
+### PHP & WordPress Developer | Project Manager | Team Leader
+As a seasoned WordPress Developer, I bring over a decade of in-depth experience working with more than 10 page builders and extensive expertise in theme and plugin development. Skilled in PHP, I excel in creating custom solutions that enhance website functionality and user engagement. My technical proficiency and creative approach enable me to deliver compelling, efficient, and scalable websites, tailored to meet the specific needs of clients. I am passionate about leveraging technology to solve complex problems and deliver outstanding results.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shemanta-bhowmik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shemanta-bhowmik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shemantabhowmik16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCULY_oXh5W2pmsF0TtFSOYg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shemantabhowmik.com)  
